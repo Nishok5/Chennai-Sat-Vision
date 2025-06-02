@@ -1,2 +1,2 @@
 # Chennai-Sat-Vision
-FullStack WebApplication for managing a digital cable tv business through online 
+FullStack windows application for managing a super market
